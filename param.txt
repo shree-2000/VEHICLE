@@ -10,7 +10,7 @@ Max. Thrust	: 7.6 x 2 kN
 Third Stage: PS3
 The third stage of PSLV is a solid rocket motor that provides the upper stages high thrust after the atmospheric phase of the launch.
 Fuel		: HTPB
-Max. Thrust	: 240 kN
+Max. Thrust	: 252 kN
 >>>>>>> PS3
 =======
 Second Stage: PS2
@@ -26,3 +26,5 @@ Engine	: S139
 Fuel		: HTPB
 Max. Thrust	: 4800 kN
 >>>>>>> PS1
+
+Speed = 27,000 km/hr
